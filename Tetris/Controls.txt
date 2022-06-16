@@ -1,0 +1,5 @@
+Left Arrow - move block left
+Right Arrow - move block right
+Up Arrow - rotate block clockwise
+Down Arrow - rotate block counter clockwise
+Spacebar - boost block
